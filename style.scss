@@ -158,9 +158,10 @@ a:is(:link,:active,:hover,:visited){
             width: 30vw;
             height: 65vh;
             clip-path: polygon(0 100%, 14% 50%, 36% 20%, 83% 0, 100% 26%, 86% 64%);
-            background-image: url(photo.webp);
+            background-image: url(cute-15719_1280.jpg);
             background-size: cover;
-           background-color: rgba(255, 255, 255, 0.363);
+            background-position: center;
+           background-color: rgba(255, 255, 255, 0.5);
            background-blend-mode:overlay;
         }
         & .about-text{
